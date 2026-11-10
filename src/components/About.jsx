@@ -157,7 +157,7 @@ const About = () => {
             </div>
             
             <div className="pt-6 font-mono text-xs text-white/40 relative z-10">
-              // SEASON_01 HIGHLIGHTS SRI LOVES VISHNU
+              // SEASON_01 HIGHLIGHTS
             </div>
           </div>
 
